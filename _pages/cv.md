@@ -48,10 +48,8 @@ Volunteering
   :  Organising petitions, rallies, speak-outs and daily protests, and co-ordinating social media and media releases for a grassroots, community-based refugee rights organisation for Medevac refugees and asylum seekers in Melbourne. 
 
 * _Campaigns and Advocacy Manager_, **It’s Not a Compliment** (June 2021- December 2021)
-  * Led a team of 7 campaigners, and co-designed INAC’s campaigns of Your Stories Matter, and Our Public Spaces: to fight against street harassment and champion inclusive public spaces for marginalised people.
-  * Wrote and managed grant applications, and monitored compliance to Council and Government grants.
-  * Designed the first Campaigns Evaluation Template for the organisation for a structurally consistent way of evaluating the progress, outreach, and impact of advocacy campaigns. 
-
+  :  Led a team of 7 campaigners and co-designed the campaigns of 'Your Stories Matter' and 'Our Public Spaces' to fight against street harassment and champion inclusive public spaces for marginalised people, designed the first Campaigns Evaluation Template for the organisation for a structurally consistent way of evaluating the progress, outreach, and impact of advocacy campaigns, and wrote and managed grant applications, and monitored compliance to Council and Government grants.
+   
 * _Anti-Racism Workshop Facilitator_, **University of Melbourne Students’ Union** (May 2019- October 2019)
   :  Delivered two sets of anti-racism training and workshops to a diverse audience, on ‘Deconstructing Racism in Beauty’ and ‘Decolonising Mental Health’.
  
