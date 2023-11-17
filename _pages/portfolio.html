@@ -15,6 +15,6 @@ author_profile: true
 
 <h1>Policy Consultations</h1>
 
-{% for post in site.talks %}
-  {% include archive-single.html %}
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
 {% endfor %}
