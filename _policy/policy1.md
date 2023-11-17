@@ -1,6 +1,5 @@
 ---
 title: "Parliamentary Policy Adviser"
-venue: "Foreign Affairs and LGBTQIA+ Affairs, Federal Senate of Australia"
 collection: policy
 ---
 _Foreign Affairs and LGBTQIA+ Affairs, Federal Senate of Australia_
