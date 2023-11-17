@@ -12,8 +12,8 @@ main:
   - title: "Campaigns"
     url: /campaigns/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
   - title: "CV"
     url: /cv/
