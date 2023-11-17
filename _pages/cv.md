@@ -42,12 +42,10 @@ Work
 Volunteering
 ======
 * _Union Policy and Casework Support_, **Renter and Housing Union** (December 2020 - Present)
-  * Providing casework support to tenants undergoing rental issues in public, social and general corporate housing.
-  * Leading policy responses to campaign against landlords about wrongful termination cases and failure to comply to housing standards.
-  * Assisting non-citizens, especially from refugee and asylum seeker backgrounds, with rental rights information and housing cases with Renters Victoria.
+  :  Providing casework support to tenants undergoing rental issues in public, social and general corporate housing, leading policy responses to campaign against landlords about wrongful termination cases and failure to comply to housing standards, and assisting non-citizens, especially from refugee and asylum seeker backgrounds, with rental rights information and housing cases with Renters Victoria.
 
 * _Campaigns Organiser_, **Fight Together for Justice** (December 2020- Present)
-  * Organising petitions, rallies, speak-outs and daily protests, and co-ordinating social media and media releases for a grassroots, community-based refugee rights organisation for Medevac refugees and asylum seekers in Melbourne. 
+  :  Organising petitions, rallies, speak-outs and daily protests, and co-ordinating social media and media releases for a grassroots, community-based refugee rights organisation for Medevac refugees and asylum seekers in Melbourne. 
 
 * _Campaigns and Advocacy Manager_, **It’s Not a Compliment** (June 2021- December 2021)
   * Led a team of 7 campaigners, and co-designed INAC’s campaigns of Your Stories Matter, and Our Public Spaces: to fight against street harassment and champion inclusive public spaces for marginalised people.
