@@ -1,9 +1,9 @@
 ---
 title: "Parliamentary Policy Adviser"
-excerpt: "Foreign Affairs and LGBTQIA+ Affairs, Federal Senate of Australia"
 venue: "Foreign Affairs and LGBTQIA+ Affairs, Federal Senate of Australia"
 collection: policy
 ---
+_Foreign Affairs and LGBTQIA+ Affairs, Federal Senate of Australia_
 
 As Parliamentary Policy Adviser to Senator Janet Rice, I led portfolio responses to diasporic communities in Victoria, as well as drafted political and media responses to Australian Foreign Policy matters – such as the war in Ukraine, the fall of Kabul, and bombings in Palestine. <br>
 
