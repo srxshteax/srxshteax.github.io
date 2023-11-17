@@ -10,8 +10,8 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Arts (Honours), Media and Communications, University of Melbourne (2019-2022) <br>
-:    Researched and wrote a 15,000 word critical theory Honours thesis on the experience of community advocacy, solidarity, and liberation on digital assemblages, in the fields of Media, Digital Politics, and Philosophy. 
+* Bachelor of Arts (Honours), Media and Communications, University of Melbourne (2019-2022)
+:    _Researched and wrote a 15,000 word critical theory Honours thesis on the experience of community advocacy, solidarity, and liberation on digital assemblages, in the fields of Media, Digital Politics, and Philosophy._ 
 
 * Diploma of Fine Arts, Indian Paintings and Cinema, National School of Art, New Delhi (2017)
 
@@ -77,6 +77,14 @@ Volunteering
 * _Mental Health First-Aid Volunteer_, **Global Strikes for Climate Change** (September 2019)
   * Stationed as a mental health first-aider, assisted in first response and trauma care in the Melbourne chapter of the global climate strike. 
 
+  
+Fellowships
+======
+* _Postgraduate Fellow_, **Blavatnik School of Government, University of Oxford** (2023 - Present)
+  * Researching a year-long project on the impacts of transphobia on teaching curricula across different education systems, primarily focusing on the difference between socialised and corporatised education. 
+ 
+* _Create Change Fellow_, **Democracy in Colour** (May 2020- September 2020)
+  * Received training and participated in workshops on advocating for the economic and social equity of people of colour, and delivered a final project for community-led racial justice workshops. 
 
 Publications
 ======
@@ -95,10 +103,6 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
 
 Licenses and Certifications 
 ======
