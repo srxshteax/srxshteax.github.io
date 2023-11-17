@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Arts (Honours), Media and Communications, University of Melbourne (2019-2022)
+* Diploma of Fine Arts, Indian Paintings and Cinema, National School of Art, New Delhi (2017)
 
 Work experience
 ======
