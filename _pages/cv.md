@@ -84,6 +84,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
+Campaigns
+=====
+<ul>{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}</ul>
+
 Licenses and Certifications 
 ======
 * _Advanced Parliamentary Speechwriting_, **Department of Finances, Parliament of Australia**
