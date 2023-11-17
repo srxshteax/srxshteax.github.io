@@ -84,10 +84,16 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Campaigns
+Campaigns and Consultations
 =====
 <ul>{% for post in site.portfolio reversed %}
   {% include archive-single.html %}
+{% endfor %}</ul>
+
+Flagship Policy Roles
+=====
+<ul>{% for post in site.policy reversed%}
+  {% include archive-single.html%}
 {% endfor %}</ul>
 
 Licenses and Certifications 
