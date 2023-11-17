@@ -47,7 +47,8 @@ Work Experience
   * Represented all students with mental and physical disabilities to the University faculty.
   * Advocated for and securing Culturally and Linguistically Diverse and Gender-Diverse counselling services at University of Melbourne Counselling and Psychological Services.
   * Designed and led a petition-based student campaign signed by 20,000+ students, and then negotiated with the University to achieve Grade Amnesty and easier access to Special Consideration in Examinations during COVID-19 lockdowns, to assist students struggling with health and isolation.
-  * Facilitated Queer People with Disabilities Collective and Disabilities and Mental Wellness Collective, and - Chaired fortnightly Disabilities Department meetings to manage finances and mobilise the department to organise events. 
+  * Facilitated Queer People with Disabilities Collective and Disabilities and Mental Wellness Collective.
+  * Chaired fortnightly Disabilities Department meetings to manage finances and mobilise the department to organise events. 
 
 * _Community Reference Manager_, **Transgender Victoria** (July 2020 – December 2021)
   * Provided lived experience-based representation of people of colour in a community reference group within Transgender Victoria, contributing to consensus-based decision making in policy and financial operations. 
