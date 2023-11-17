@@ -3,14 +3,14 @@ main:
   - title: "Research"
     url: /publications/
 
-  - title: "Campaigns"
+  - title: "Talks"
     url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Campaigns"
+    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
