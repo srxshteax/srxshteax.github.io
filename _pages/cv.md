@@ -11,6 +11,8 @@ redirect_from:
 Education
 ======
 * Bachelor of Arts (Honours), Media and Communications, University of Melbourne (2019-2022)
+:    Researched and wrote a 15,000 word critical theory Honours thesis on the experience of community advocacy, solidarity, and liberation on digital assemblages, in the fields of Media, Digital Politics, and Philosophy. 
+
 * Diploma of Fine Arts, Indian Paintings and Cinema, National School of Art, New Delhi (2017)
 
 Work Experience
