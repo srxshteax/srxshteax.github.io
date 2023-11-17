@@ -53,10 +53,10 @@ Volunteering
   * Designed the first Campaigns Evaluation Template for the organisation for a structurally consistent way of evaluating the progress, outreach, and impact of advocacy campaigns. 
 
 * _Anti-Racism Workshop Facilitator_, **University of Melbourne Students’ Union** (May 2019- October 2019)
-  * Delivered two sets of anti-racism training and workshops to a diverse audience, on ‘Deconstructing Racism in Beauty’ and ‘Decolonising Mental Health’.
+  :  Delivered two sets of anti-racism training and workshops to a diverse audience, on ‘Deconstructing Racism in Beauty’ and ‘Decolonising Mental Health’.
  
 * _Mental Health First-Aid Volunteer_, **Global Strikes for Climate Change** (September 2019)
-  * Stationed as a mental health first-aider, assisted in first response and trauma care in the Melbourne chapter of the global climate strike. 
+  :  Stationed as a mental health first-aider, assisted in first response and trauma care in the Melbourne chapter of the global climate strike. 
 
   
 Fellowships
