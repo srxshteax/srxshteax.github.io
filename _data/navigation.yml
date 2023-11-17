@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /policy/
+  # - title: "Guide"
+  #   url: /policy/
