@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Arts (Honours), Media and Communications, University of Melbourne (2019-2022)
+* Bachelor of Arts (Honours), Media and Communications, University of Melbourne (2019-2022) <br>
 :    Researched and wrote a 15,000 word critical theory Honours thesis on the experience of community advocacy, solidarity, and liberation on digital assemblages, in the fields of Media, Digital Politics, and Philosophy. 
 
 * Diploma of Fine Arts, Indian Paintings and Cinema, National School of Art, New Delhi (2017)
@@ -56,14 +56,27 @@ Work Experience
   * Supervised the research and writing team for an academic conference in Kolkata, India, creating media packages and liaising with different media organisations around India to advertise and optimise conference impact. 
 
     
-Skills
+Volunteering
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* _Union Policy and Casework Support_, **Renter and Housing Union** (December 2020 - Present)
+  * Providing casework support to tenants undergoing rental issues in public, social and general corporate housing.
+  * Leading policy responses to campaign against landlords about wrongful termination cases and failure to comply to housing standards.
+  * Assisting non-citizens, especially from refugee and asylum seeker backgrounds, with rental rights information and housing cases with Renters Victoria.
+
+* _Campaigns Organiser_, **Fight Together for Justice** (December 2020- Present)
+  * Organising petitions, rallies, speak-outs and daily protests, and co-ordinating social media and media releases for a grassroots, community-based refugee rights organisation for Medevac refugees and asylum seekers in Melbourne. 
+
+* _Campaigns and Advocacy Manager_, **It’s Not a Compliment** (June 2021- December 2021)
+  * Led a team of 7 campaigners, and co-designed INAC’s campaigns of Your Stories Matter, and Our Public Spaces: to fight against street harassment and champion inclusive public spaces for marginalised people.
+  * Wrote and managed grant applications, and monitored compliance to Council and Government grants.
+  * Designed the first Campaigns Evaluation Template for the organisation for a structurally consistent way of evaluating the progress, outreach, and impact of advocacy campaigns. 
+
+* _Anti-Racism Workshop Facilitator_, **University of Melbourne Students’ Union** (May 2019- October 2019)
+  * Delivered two sets of anti-racism training and workshops to a diverse audience, on ‘Deconstructing Racism in Beauty’ and ‘Decolonising Mental Health’.
+ 
+* _Mental Health First-Aid Volunteer_, **Global Strikes for Climate Change** (September 2019)
+  * Stationed as a mental health first-aider, assisted in first response and trauma care in the Melbourne chapter of the global climate strike. 
+
 
 Publications
 ======
