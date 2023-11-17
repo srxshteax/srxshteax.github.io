@@ -7,8 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+<h1>Flagship Campaigns</h1>
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
 
+<h1>Policy Consultations</h1>
+
+{% for post in site.talks %}
+  {% include archive-single.html %}
+{% endfor %}
