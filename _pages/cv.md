@@ -64,13 +64,13 @@ Volunteering
 Fellowships
 ======
 * _Postgraduate Fellow_, **Blavatnik School of Government, University of Oxford** (2023 - Present)
-  * Researching a year-long project on the impacts of transphobia on teaching curricula across different education systems, primarily focusing on the difference between socialised and corporatised education. 
+  :  Researching a year-long project on the impacts of transphobia on teaching curricula across different education systems, primarily focusing on the difference between socialised and corporatised education. 
 
 * _Climate Justice Fellow_, **Democracy in Colour** (2023 - Present)
-  * Working on a research-activism fellowship with a cohort of policy advocates and political campaigners of colour working in the climate justice sector, to centre the lived experiences of First Nations people, refugees and asylum seekers, and other frontliners of the climate crisis.
+  :  Working on a research-activism fellowship with a cohort of policy advocates and political campaigners of colour working in the climate justice sector, to centre the lived experiences of First Nations people, refugees and asylum seekers, and other frontliners of the climate crisis.
   
 * _Create Change Fellow_, **Democracy in Colour** (May 2020- September 2020)
-  * Received training and participated in workshops on advocating for the economic and social equity of people of colour, and delivered a final project for community-led racial justice workshops. 
+  :  Received training and participated in workshops on advocating for the economic and social equity of people of colour, and delivered a final project for community-led racial justice workshops. 
 
 Publications
 ======
