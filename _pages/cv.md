@@ -95,8 +95,8 @@ Flagship Policy Roles
 Licenses and Certifications 
 ======
 * _Advanced Parliamentary Speechwriting_, **Department of Finances, Parliament of Australia**
-* _Introduction to Vicarious Trauma_ **Rape and Domestic Violence Services of Australia**
-* _Responding with Compassion_ **Rape and Domestic Violence Services of Australia**
-* _Mental Health First-Aider_ **Mental Health Foundation of Australia**
-* _Responsible Service of Alcohol_ **Victorian Commission for Gambling and Liquor Regulation**
+* _Introduction to Vicarious Trauma_, **Rape and Domestic Violence Services of Australia**
+* _Responding with Compassion_, **Rape and Domestic Violence Services of Australia**
+* _Mental Health First-Aider_, **Mental Health Foundation of Australia**
+* _Responsible Service of Alcohol_, **Victorian Commission for Gambling and Liquor Regulation**
 * _Safe Food Handling_, **Hospitality Training Australia**
